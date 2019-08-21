@@ -9,3 +9,5 @@ because I used this more as an experiment and testing platform, it is not very p
 are issues with the game mechanics and apperence.
 
 none of the art, music or font is mine.
+to run it, either go into vocaloid_runner.py and delete all the file paths before the file names 
+i.e /Images/file_name.png becomes file_name.png, or group files based on paths in named folders.
